@@ -3,7 +3,7 @@
 
 :coffee: [Homepage](https://302.at/)
 
-![](https://cdn.int64ago.org/dp8yvtgjfyv43fob6gvi.png)
+![](https://cloud.githubusercontent.com/assets/2230882/22627382/3d5f1f0e-ebfd-11e6-823e-f8e9746af3f3.png)
 
 
 This's a simple URL shortener, the backend is based on NodeJS and [LeanCloud](https://leancloud.cn/)
